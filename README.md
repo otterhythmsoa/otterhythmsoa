@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tsinjo RANDRIANARISON (●'◡'●)<br>📚A student in computer science<br>🌍Based in Toulouse<br>📧You can contact me at tsitsi.mirantsoa@gmail.com<br>🎶Into music
+Hi, I'm Tsinjo RANDRIANARISON (●'◡'●)<br>📚A student in computer science<br>🌍Based in Toulouse<br>📧You can contact me at tj.randrianarison@gmail.com<br>🎶Into music
 
 
 # 💻 Tech Stack:
